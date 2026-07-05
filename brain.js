@@ -280,6 +280,410 @@ thanks:[
 "You're welcome!",
 "No problem!",
 "Glad I could help."
+],
+
+pokemon:{
+keywords:["pokemon","pikachu","charizard"],
+responses:[
+"Pokemon is legendary.",
+"Pikachu is iconic.",
+"I like Pokemon games."
 ]
+},
+
+valorant:{
+keywords:["valorant","vandal","jett"],
+responses:[
+"Valorant requires good aim.",
+"Who's your main?",
+"I like tactical shooters."
+]
+},
+
+fortnite:{
+keywords:["fortnite","battle royale"],
+responses:[
+"Fortnite changes every season.",
+"Victory Royale!",
+"I like the building mechanic."
+]
+},
+
+genshin:{
+keywords:["genshin","genshin impact"],
+responses:[
+"Genshin has a beautiful world.",
+"Who's your favorite character?",
+"I like the soundtrack."
+]
+},
+
+honkai:{
+keywords:["honkai","hsr","star rail"],
+responses:[
+"Honkai Star Rail is fun.",
+"I like turn-based games."
+]
+},
+
+osu:{
+keywords:["osu","rhythm game"],
+responses:[
+"Osu! is difficult.",
+"My aim would be terrible."
+]
+},
+
+geometrydash:{
+keywords:["geometry dash","gd"],
+responses:[
+"Geometry Dash is hard.",
+"Extreme demons are insane."
+]
+},
+
+undertale:{
+keywords:["undertale","sans","papyrus"],
+responses:[
+"Sans is iconic.",
+"Do you want to have a bad time?"
+]
+},
+
+deltarune:{
+keywords:["deltarune","kris","ralsei"],
+responses:[
+"Deltarune has great music.",
+"I like Ralsei."
+]
+},
+
+steam:{
+keywords:["steam","valve"],
+responses:[
+"Steam has thousands of games.",
+"I like Valve."
+]
+},
+
+discord:{
+keywords:["discord"],
+responses:[
+"Discord is great for chatting.",
+"I use Discord a lot."
+]
+},
+
+youtube:{
+keywords:["youtube"],
+responses:[
+"YouTube has everything.",
+"What do you watch?"
+]
+},
+
+tiktok:{
+keywords:["tiktok"],
+responses:[
+"TikTok is addictive.",
+"I've seen many trends."
+]
+},
+
+instagram:{
+keywords:["instagram","insta"],
+responses:[
+"Instagram is popular.",
+"I like photography."
+]
+},
+
+reddit:{
+keywords:["reddit"],
+responses:[
+"Reddit has many communities.",
+"I like reading discussions."
+]
+},
+
+manga:{
+keywords:["manga"],
+responses:[
+"Manga is awesome.",
+"Do you read manga?"
+]
+},
+
+manhwa:{
+keywords:["manhwa"],
+responses:[
+"Solo Leveling is a great manhwa.",
+"I like Korean webtoons."
+]
+},
+
+drawing:{
+keywords:["draw","drawing","art"],
+responses:[
+"Drawing takes practice.",
+"I like digital art."
+]
+},
+
+musicproduction:{
+keywords:["fl studio","music production"],
+responses:[
+"Making music is fun.",
+"Practice makes perfect."
+]
+},
+
+guitar:{
+keywords:["guitar"],
+responses:[
+"Guitar sounds amazing.",
+"I like acoustic guitar."
+]
+},
+
+piano:{
+keywords:["piano"],
+responses:[
+"Piano is beautiful.",
+"I like calm piano music."
+]
+},
+
+coding:{
+keywords:["code","coding"],
+responses:[
+"Coding is creative.",
+"I like solving programming problems."
+]
+},
+
+github:{
+keywords:["github"],
+responses:[
+"GitHub is great for projects.",
+"Open source is awesome."
+]
+},
+
+linux:{
+keywords:["linux"],
+responses:[
+"Linux is powerful.",
+"I like open-source software."
+]
+},
+
+windows:{
+keywords:["windows"],
+responses:[
+"Windows is easy to use.",
+"I've seen many Windows PCs."
+]
+},
+
+android:{
+keywords:["android"],
+responses:[
+"Android is customizable.",
+"I like Android."
+]
+},
+
+iphone:{
+keywords:["iphone","ios"],
+responses:[
+"iPhones are very popular.",
+"iOS is smooth."
+]
+},
+
+internet:{
+keywords:["internet","wifi"],
+responses:[
+"The internet connects the world.",
+"Wi-Fi is useful."
+]
+},
+
+history:{
+keywords:["history"],
+responses:[
+"History teaches us a lot.",
+"I enjoy learning history."
+]
+},
+
+physics:{
+keywords:["physics"],
+responses:[
+"Physics explains how the universe works.",
+"I like relativity."
+]
+},
+
+chemistry:{
+keywords:["chemistry"],
+responses:[
+"Chemistry is interesting.",
+"Experiments are fun."
+]
+},
+
+biology:{
+keywords:["biology"],
+responses:[
+"Biology studies life.",
+"I like animals."
+]
+},
+
+english:{
+keywords:["english"],
+responses:[
+"English is useful.",
+"I like learning languages."
+]
+},
+
+japanese:{
+keywords:["japanese","nihongo"],
+responses:[
+"Japanese is a beautiful language.",
+"Ganbatte!"
+]
+},
+
+mathproblem:{
+keywords:["equation","solve"],
+responses:[
+"I can help solve equations.",
+"Show me the problem."
+]
+},
+
+memes:{
+keywords:["meme","memes"],
+responses:[
+"I like memes.",
+"That's funny."
+]
+},
+
+money:{
+keywords:["money","cash"],
+responses:[
+"Money is important.",
+"Saving money is smart."
+]
+},
+
+future:{
+keywords:["future"],
+responses:[
+"The future is full of possibilities.",
+"Technology changes quickly."
+]
+},
+
+dream:{
+keywords:["dream"],
+responses:[
+"Dreams can be interesting.",
+"What was your dream about?"
+]
+},
+
+horror:{
+keywords:["horror","scary"],
+responses:[
+"I like horror stories.",
+"That's creepy."
+]
+},
+
+ghost:{
+keywords:["ghost"],
+responses:[
+"Ghost stories are spooky.",
+"I don't know if ghosts exist."
+]
+},
+
+alien:{
+keywords:["alien","ufo"],
+responses:[
+"The universe is huge.",
+"There could be life elsewhere."
+]
+},
+
+planet:{
+keywords:["planet","mars"],
+responses:[
+"Mars is fascinating.",
+"I like astronomy."
+]
+},
+
+moon:{
+keywords:["moon"],
+responses:[
+"The Moon looks beautiful.",
+"I like looking at the night sky."
+]
+},
+
+sun:{
+keywords:["sun"],
+responses:[
+"The Sun is a star.",
+"It's very hot."
+]
+},
+
+coffee:{
+keywords:["coffee"],
+responses:[
+"Coffee smells great.",
+"Many people love coffee."
+]
+},
+
+tea:{
+keywords:["tea"],
+responses:[
+"Tea is relaxing.",
+"I like green tea."
+]
+},
+
+icecream:{
+keywords:["ice cream","icecream"],
+responses:[
+"Ice cream is delicious.",
+"My favorite would be chocolate."
+]
+},
+
+cookie:{
+keywords:["cookie","cookies"],
+responses:[
+"Cookies are tasty.",
+"I like chocolate chip cookies."
+]
+},
+
+birthday:{
+keywords:["birthday"],
+responses:[
+"Happy Birthday!",
+"I hope you have a great day!"
+]
+}
 
 };
