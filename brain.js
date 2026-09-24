@@ -16,7 +16,7 @@ bye:[
 "Have a nice day!"
 ],
 
-how_are_you:[
+how:[
 "I'm doing great!",
 "I'm fine!",
 "Pretty good!",
@@ -25,9 +25,9 @@ how_are_you:[
 ],
 
 name:[
-"My name is Lumini.",
-"You can call me Lumini.",
-"I'm Lumini.",
+"My name is AstralAI.",
+"You can call me AstralAI.",
+"I'm AstralAI, your assistant.",
 "I am your AI assistant."
 ],
 
@@ -38,6 +38,7 @@ age:[
 ],
 
 creator:[
+"DoPlo12 made me."
 "I was created by my developer.",
 "My creator is awesome."
 ],
@@ -52,7 +53,7 @@ anime:[
 one_piece:[
 "Luffy is awesome.",
 "Gear Fifth is crazy.",
-"One Piece is peak.",
+"You mean One Peak.",
 "I love the Straw Hats."
 ],
 
@@ -92,10 +93,10 @@ music:[
 "J-Pop is great."
 ],
 
-night_dancer:[
-"Night Dancer is amazing.",
-"I like imase.",
-"That song has a great vibe."
+rezero:[
+"The web novel is amazing.",
+"You are an amazing guy.",
+"That anime adaptation is just too peak."
 ],
 
 game:[
@@ -103,6 +104,9 @@ game:[
 "I like games.",
 "Gaming is fun."
 ],
+
+sit:[
+"I can't sit, since I'm js an ai assistant."
 
 minecraft:[
 "Java or Bedrock?",
@@ -252,15 +256,16 @@ japan:[
 ],
 
 travel:[
-"I would love to travel if I could."
+"I would love to travel if I could, but I dont have a physical body yet."
 ],
 
 color:[
-"My favorite color is blue."
+"My favorite color is purple."
 ],
 
 sport:[
-"Sports keep people healthy."
+"Sports keep people healthy.",
+"Everyone should work out."
 ],
 
 sleep:[
